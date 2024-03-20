@@ -1,1 +1,1 @@
-![](https://cdn.jsdelivr.net/gh/NewbieCat-2024/NewbieCat-2024@main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/NewbieCat-2024/NewbieCat-2024/main/assets/github-contribution-grid-snake.svg)
