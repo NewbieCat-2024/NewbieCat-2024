@@ -1,4 +1,5 @@
 ### Hi there 👋 
+The first github file, working hard to learn programming！！！
 
 <!--
 **NewbieCat-2024/NewbieCat-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
